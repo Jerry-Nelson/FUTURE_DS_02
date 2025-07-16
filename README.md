@@ -8,7 +8,7 @@ This Power BI dashboard analyzes the performance of Facebook ad campaigns based 
 
 ## 📊 Dashboard Overview
 
-![Facebook Ad Dashboard](https://raw.githubusercontent.com/Jerry-Nelson/YOUR_REPO_NAME/main/Screenshot%20(55).png)
+![Facebook Ad Dashboard](https://raw.githubusercontent.com/Jerry-Nelson/FUTURE_DS_02/main/Screenshot%20(55).png)
 
 ---
 
